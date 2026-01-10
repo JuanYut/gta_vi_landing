@@ -31,7 +31,8 @@ body {
   width: 100dvw;
   overflow-x: hidden;
   font-family: "Round", sans-serif;
-  background-color: black;
+  /* background-color: black; */
+  background-color: red;
 }
 
 main {

@@ -1,15 +1,16 @@
-import React from "react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
+
+import NavBar from "./sections/NavBar";
+import Hero from "./sections/Hero";
 
 gsap.registerPlugin(ScrollTrigger);
 
 const App = () => {
   return (
     <main>
-      <div>
-        <h1 className="text-3xl text-pink">Welcome To The GTA Landing</h1>
-      </div>
+      <NavBar />
+      <Hero />
     </main>
   );
 };
