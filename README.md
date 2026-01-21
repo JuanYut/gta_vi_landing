@@ -20,9 +20,7 @@ This project served as a **hands-on way to practice, experiment, and solidify my
 ## 🌐 Live Site
 
 👉 **Live demo:**  
-🌐 <a href="https://gtavilanding-juanyut.vercel.app/" target="_blank" rel="noopener noreferrer">
-Live Demo
-</a>
+🌐 [Link to Live Demo (Vercel) ↗](https://gtavilanding-juanyut.vercel.app/)
 
 ---
 
