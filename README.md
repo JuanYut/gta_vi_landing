@@ -1,7 +1,11 @@
-# GSAP Motion Playground
+<div align="center">
+    <a href="" target="_blank">
+      <img src="./public/readme/hero_final_github.png" alt="Project Banner">
+    </a>
+  <br />
+</div>
 
-A project focused on creating **smooth, high-performance web animations** using **GSAP (GreenSock Animation Platform)**.  
-This repository explores motion design principles applied to modern web experiences, combining interaction, timing, and visual storytelling.
+# GSAP Motion Playground
 
 ---
 
@@ -28,10 +32,10 @@ Front-End Developer and creative enthusiast.
 > _(You can replace the images with your own custom-designed icons.)_
 
 <div align="left">
-  <img src="./public/images/react.png" alt="React" height="40" />
-  <img src="./public/images/javascript.png" alt="React" height="40" />
-  <img src="./public/images/gsap.png" alt="GSAP" height="40" />
-  <img src="./public/images/figma.png" alt="Figma" height="40" />
+  <img src="./public/readme/React_bag.png" alt="React" height="40" />
+  <img src="./public/readme/Javascript_bag.png" alt="Javascript" height="40" />
+  <img src="./public/readme/Gsap_bag.png" alt="GSAP" height="40" />
+  <img src="./public/readme/Figma_bag.png" alt="Figma" height="40" />
 </div>
 
 ---
