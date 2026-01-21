@@ -20,7 +20,9 @@ This project served as a **hands-on way to practice, experiment, and solidify my
 ## 🌐 Live Site
 
 👉 **Live demo:**  
-[Link GTA VI Landing Page](https://juanyut.github.io/gta_vi_landing/)
+🌐 <a href="https://gtavilanding-juanyut.vercel.app/" target="_blank" rel="noopener noreferrer">
+Live Demo
+</a>
 
 ---
 
