@@ -7,8 +7,6 @@
 
 # GSAP Motion Playground
 
----
-
 ## 🧠 Description
 
 This project was built as part of my learning process after completing a **GSAP-focused course**.  
@@ -19,10 +17,17 @@ This project served as a **hands-on way to practice, experiment, and solidify my
 
 ---
 
+## 🌐 Live Site
+
+👉 **Live demo:**  
+[https://yoursite.com](https://yoursite.com)
+
+---
+
 ## 👨‍💻 Author
 
 **Juan Santillán**
-Front-End Developer and creative enthusiast.
+| Front-End Developer and creative enthusiast.
 
 ---
 
@@ -37,13 +42,6 @@ Front-End Developer and creative enthusiast.
   <img src="./public/readme/Gsap_bag.png" alt="GSAP" height="40" />
   <img src="./public/readme/Figma_bag.png" alt="Figma" height="40" />
 </div>
-
----
-
-## 🌐 Live Site
-
-👉 **Live demo:**  
-[https://yoursite.com](https://yoursite.com)
 
 ---
 
