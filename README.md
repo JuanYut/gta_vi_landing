@@ -33,8 +33,7 @@ This project served as a **hands-on way to practice, experiment, and solidify my
 
 ## 🛠️ Technologies Used
 
-> The following technologies were used in this project.  
-> _(You can replace the images with your own custom-designed icons.)_
+> The following technologies were used in this project.
 
 <div align="left">
   <img src="./public/readme/React_bag.png" alt="React" height="40" />
